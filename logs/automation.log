@@ -1,0 +1,25 @@
+01:42:53.771 [main] INFO  testCases.tc_001_AccountRegestration - Starting tc_001_AccountRegestration
+01:42:58.881 [main] INFO  testCases.tc_001_AccountRegestration - Home page displayed
+01:43:01.434 [main] INFO  testCases.tc_001_AccountRegestration - clicked on my account
+01:43:06.715 [main] INFO  testCases.tc_001_AccountRegestration - clicked on Register
+01:43:07.222 [main] INFO  testCases.tc_001_AccountRegestration - First name entered
+01:43:07.313 [main] INFO  testCases.tc_001_AccountRegestration - Last name entered
+01:43:07.407 [main] INFO  testCases.tc_001_AccountRegestration - Email entered
+01:43:07.503 [main] INFO  testCases.tc_001_AccountRegestration - Telphone number enteered
+01:43:07.590 [main] INFO  testCases.tc_001_AccountRegestration - Entered pswd
+01:43:07.675 [main] INFO  testCases.tc_001_AccountRegestration - conform paswd
+01:43:07.765 [main] INFO  testCases.tc_001_AccountRegestration - clicked yes on subcription
+01:43:07.835 [main] INFO  testCases.tc_001_AccountRegestration - clicked no on subcription
+01:43:07.902 [main] INFO  testCases.tc_001_AccountRegestration - clicked on privacy policy
+01:43:16.536 [main] INFO  testCases.tc_001_AccountRegestration - clicked on continue
+01:43:16.580 [main] INFO  testCases.tc_001_AccountRegestration - Account registartion  is success
+01:43:16.582 [main] INFO  testCases.tc_001_AccountRegestration - ended tc_001_AccountRegestration
+01:43:19.321 [main] INFO  testCases.tc_001_AccountRegestration - Browser closed
+01:43:23.715 [main] INFO  testCases.tc_002_Login_testcase - Chrome browser launched
+01:43:23.722 [main] INFO  testCases.tc_002_Login_testcase - Starting tc_002_Login_testcase 
+01:43:35.011 [main] INFO  testCases.tc_002_Login_testcase - HOme PAgeDisplayed
+01:43:39.608 [main] INFO  testCases.tc_002_Login_testcase - email provided
+01:43:39.693 [main] INFO  testCases.tc_002_Login_testcase - Password provided
+01:43:41.087 [main] INFO  testCases.tc_002_Login_testcase - Login Button clicked
+01:43:46.347 [main] INFO  testCases.tc_002_Login_testcase - Login Failed
+01:43:47.388 [main] INFO  testCases.tc_002_Login_testcase - Browser closed
